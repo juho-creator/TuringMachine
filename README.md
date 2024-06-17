@@ -2,7 +2,7 @@
 [![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/TuringMachine/blob/main/README.KR.md)
 
 
-# TuringMachine
+# Turing Machine
 - This is a Turing Machine developed in C++ as an assignment for Advanced C++ Programming class.
 - Turing Machine is a theoretical computational model that manipulates symbols on a tape according to a set of rules to perform any algorithmic process.
 
@@ -11,6 +11,13 @@
 
 ## Demonstration Video
 
+</br></br>
+
+
+## Mechanism of Turing Machine
+- **Table**: Manages the set of transitions/rules that dictate how the Turing machine processes symbols based on the current state and symbol read.
+- **Tape**: Represents the tape of the Turing machine, storing symbols and providing methods to read from and write to the tape.
+- **Machine**: Controls the operation of the Turing machine, coordinating the states, tape, and transitions to simulate the machine's processing steps.
 </br></br>
 
 ## Reference
