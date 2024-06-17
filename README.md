@@ -3,7 +3,8 @@
 
 
 # TuringMachine
-Simulation of a **Turing machine**, a theoretical computational model that manipulates symbols on a tape according to a set of rules to perform any algorithmic process.
+- This is a Turing Machine developed in C++ as an assignment for Advanced C++ Programming class.
+- Turing Machine is a theoretical computational model that manipulates symbols on a tape according to a set of rules to perform any algorithmic process.
 
 </br></br>
 
