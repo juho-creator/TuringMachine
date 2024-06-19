@@ -9,10 +9,8 @@
 
 
 ## Demonstration Video
-[![화면 캡처 2024-06-20 035052](https://github.com/juho-creator/TuringMachine/assets/72856990/bf636524-12c0-42ca-9d3d-6694cc774844)
-](https://www.youtube.com/watch?v=EPcrqpMgBgA
-)
-
+[![image](https://github.com/juho-creator/TuringMachine/assets/72856990/07e64941-5d4e-44ff-b671-dc78cdd64b84)
+](https://www.youtube.com/watch?v=EPcrqpMgBgA)
 </br></br>
 
 
