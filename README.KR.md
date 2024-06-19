@@ -6,10 +6,17 @@
 </br></br>
 
 ## 시연 영상
-[![image](https://github.com/juho-creator/HanoiTower/assets/72856990/8931fa43-294e-491f-a8b0-16a05a21b6f2)
-](https://www.youtube.com/watch?v=CoiyGsFQT0E
-)
+[![image](https://github.com/juho-creator/TuringMachine/assets/72856990/191f2eda-9f81-4024-9b51-d4a4926f4478)
+](https://www.youtube.com/watch?v=EPcrqpMgBgA)
+
 </br></br>
+
+## 튜링 머신의 원리
+- **테이블**: 현재 상태와 읽은 기호에 따라 튜링 머신이 기호를 처리하는 방법을 결정하는 전환/규칙 세트를 관리합니다.
+- **테이프**: 튜링 머신의 테이프를 나타내며, 기호를 저장하고 테이프에서 읽고 쓰는 방법을 제공합니다.
+- **머신**: 튜링 머신의 동작을 제어하여 상태, 테이프 및 전환을 조정하여 머신의 처리 단계를 시뮬레이션합니다.
+</br></br>
+
 
 ## 참고문헌
 - [튜링 기계의 원리](https://www.youtube.com/watch?v=gJQTFhkhwPA)
