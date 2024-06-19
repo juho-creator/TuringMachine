@@ -1,6 +1,6 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/TuringMachine/blob/main/README.md)
 
-# TuringMachine
+# 튜링 기계
 - 이 프로젝트는 고급 C++ 프로그래밍 수업 과제로 C++로 개발된 튜링 기계입니다!
 - 튜링 기계는 테이프에 있는 기호를 규칙에 따라 조작하여 모든 알고리즘 프로세스를 수행할 수 있는 이론적 계산 모델입니다
 </br></br>
